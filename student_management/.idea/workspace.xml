@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="896efdf3-5b3e-4b58-89c5-0109b08b2696" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files/maven_work/apache-maven-3.9.2" />
+        <option name="userSettingsFile" value="E:\Program Files\maven_work\apache-maven-3.9.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="vmOptions" value="archetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2Q9Nxq1gNa4BEsDmuOvmA9aZpDK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\student_manager\src" />
+      <recent name="E:\code\student_manage\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxxy.studentmanagement.views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="AdministratorGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxy.studentmanagement.views.AdministratorGUI" />
+      <module name="student_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxy.studentmanagement.views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxy.studentmanagement.views.LoginGUI" />
+      <module name="student_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxy.studentmanagement.views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxy.studentmanagement.views.RegisterGUI" />
+      <module name="student_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxy.studentmanagement.views.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxxy.studentmanagement.Test" />
+      <module name="student_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxy.studentmanagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
+      <module name="student_management" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.LoginGUI" />
+        <item itemvalue="Application.AdministratorGUI" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.RegisterGUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="896efdf3-5b3e-4b58-89c5-0109b08b2696" name="Changes" comment="" />
+      <created>1684762087839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684762087839</updated>
+      <workItem from="1684762088897" duration="383000" />
+      <workItem from="1684762524650" duration="5624000" />
+      <workItem from="1684830307302" duration="18757000" />
+      <workItem from="1684852624049" duration="67000" />
+      <workItem from="1684893384030" duration="11351000" />
+      <workItem from="1684921392158" duration="42278000" />
+      <workItem from="1685077570257" duration="131000" />
+      <workItem from="1685200463281" duration="1565000" />
+      <workItem from="1685281423567" duration="2594000" />
+      <workItem from="1685350784782" duration="4000" />
+      <workItem from="1685352887865" duration="1000" />
+      <workItem from="1685372443791" duration="107000" />
+      <workItem from="1685424926543" duration="1187000" />
+      <workItem from="1685584334199" duration="44000" />
+      <workItem from="1685584468838" duration="210000" />
+      <workItem from="1685609273521" duration="1364000" />
+      <workItem from="1685615478905" duration="8156000" />
+      <workItem from="1685796459142" duration="919000" />
+      <workItem from="1685856736832" duration="5000" />
+      <workItem from="1685856793856" duration="199000" />
+      <workItem from="1686044144574" duration="5149000" />
+      <workItem from="1686103446251" duration="1000" />
+      <workItem from="1686123719389" duration="1348000" />
+      <workItem from="1686205000749" duration="27000" />
+      <workItem from="1686206561514" duration="5000" />
+      <workItem from="1686206723485" duration="1000" />
+      <workItem from="1686207424171" duration="451000" />
+      <workItem from="1686208406739" duration="708000" />
+      <workItem from="1686214507319" duration="7192000" />
+      <workItem from="1686322462598" duration="960000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
