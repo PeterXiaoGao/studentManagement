@@ -60,7 +60,7 @@
       <recent name="com.xxxy.studentmanagement.views" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
+  <component name="RunManager" selected="Application.RegisterGUI">
     <configuration name="AdministratorGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xxxy.studentmanagement.views.AdministratorGUI" />
       <module name="student_management" />
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.RegisterGUI" />
         <item itemvalue="Application.LoginGUI" />
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.AdministratorGUI" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.RegisterGUI" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +173,8 @@
       <workItem from="1686207424171" duration="451000" />
       <workItem from="1686208406739" duration="708000" />
       <workItem from="1686214507319" duration="7192000" />
-      <workItem from="1686322462598" duration="960000" />
+      <workItem from="1686322462598" duration="1555000" />
+      <workItem from="1686484992822" duration="6967000" />
     </task>
     <servers />
   </component>

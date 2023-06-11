@@ -19,7 +19,7 @@ public class DBUtil {
     private DBUtil(){
     }
 
-    // 静态加载 当调用这个类的方法会进行类加载，此时静态代码块执行
+    // 类加载 当调用这个类的方法会进行类加载，此时静态代码块执行
     static {
         try {
             Class.forName(driver);
